@@ -44,6 +44,10 @@ padding-bottom:150px ;
     width: 300px;
 }
 
+.subtitle{
+    width: 500px;
+}
+
 ul{
     list-style: none;
     display: flex;
