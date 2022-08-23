@@ -25,6 +25,8 @@ gap: 100px;
 
 .banner{
     width: 80%;
+    display: flex;
+    justify-content: space-between;
 }
 
 .title{
