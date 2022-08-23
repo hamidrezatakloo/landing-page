@@ -46,3 +46,14 @@ ul{
     color: #F9FAF8;
     font-weight: bold;
 }
+
+button{
+    background-color: #3882F6;
+    padding:8px 35px;
+    color: white;
+    border: none;
+    font-family: inherit;
+    font-weight: bold;
+    font-size: 25px;
+    border-radius:8px;
+}
