@@ -10,12 +10,15 @@ align-items: center;
 }
 
 .header{
-    font-size: 18px;
-    color: #E5E7EB;
     display: flex;
     justify-content: space-between;
     padding: 16px;
     width: 80%;
+}
+
+.header , .subtitle{
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
 .banner{
