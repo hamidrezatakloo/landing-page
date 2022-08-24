@@ -120,3 +120,10 @@ button{
     padding: 100px;
     flex-direction: column;
 }
+
+.quote-text{
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    width: 60%;
+}
