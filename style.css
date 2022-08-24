@@ -159,3 +159,8 @@ ul{
     font-size: 18px;
     color: #E5E7EB;
 }
+
+.action-button{
+    border: none;
+    padding: 16px;
+}
