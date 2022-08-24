@@ -164,4 +164,6 @@ ul{
     border: none;
     padding: 8px 30px;
     border-radius: 8px;
+    background-color: transparent;
+    color: #F9FAF8;
 }
