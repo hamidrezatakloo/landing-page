@@ -79,6 +79,10 @@ button{
     border-radius: 5px;
 }
 
+.info{
+    padding: 25px 0;
+}
+
 .info-title{
     font-size: 36px;
     color: #1F2937;
