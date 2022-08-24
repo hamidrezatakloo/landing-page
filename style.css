@@ -63,7 +63,7 @@ ul{
     font-weight: bold;
 }
 
-button{
+.banner button{
     background-color: #3882F6;
     padding:8px 35px;
     color: white;
